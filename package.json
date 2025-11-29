@@ -35,6 +35,7 @@
 	},
 	"dependencies": {
 		"@biomejs/biome": "^1.9.4",
+		"@communityox/ox_core": "^1.5.8",
 		"@nativewrappers/fivem": "latest",
 		"@overextended/ox_lib": "latest",
 		"react": "^18.3.1",

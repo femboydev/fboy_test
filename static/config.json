@@ -1,3 +1,5 @@
 {
-  "EnableNuiCommand": true
+  "EnableNuiCommand": true,
+  "SALARY_AMOUNT": 500,
+  "SALARY_INTERVAL_MINUTES": 1
 }
